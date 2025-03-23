@@ -1,0 +1,12 @@
+﻿Basic Steps to take when preprocessing texts:
+
+
+* Load spaCy Model: Ensure you load the en_core_web_sm model for processing English text.
+* Remove Stopwords & Punctuation: Filter out unnecessary words and symbols.
+* Lemmatization: Convert words to their base forms (e.g., "running" ➔ "run").
+* Lowercasing: Ensure consistency in the text.
+
+
+
+
+Once you have applied these four steps, you are very much on your way to
