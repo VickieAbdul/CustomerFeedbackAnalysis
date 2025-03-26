@@ -1,0 +1,1001 @@
+CustomerID,Feedback,Rating,Cleaned_Feedback,Sentiment
+CUST0001,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0002,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0003,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0004,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0005,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0006,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0007,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0008,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0009,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0010,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0011,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0012,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0013,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0014,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0015,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0016,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0017,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0018,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0019,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0020,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0021,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0022,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0023,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0024,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0025,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0026,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0027,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0028,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0029,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0030,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0031,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0032,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0033,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0034,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0035,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0036,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0037,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0038,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0039,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0040,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0041,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0042,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0043,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0044,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0045,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0046,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0047,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0048,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0049,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0050,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0051,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0052,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0053,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0054,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0055,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0056,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0057,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0058,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0059,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0060,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0061,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0062,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0063,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0064,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0065,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0066,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0067,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0068,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0069,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0070,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0071,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0072,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0073,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0074,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0075,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0076,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0077,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0078,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0079,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0080,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0081,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0082,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0083,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0084,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0085,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0086,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0087,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0088,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0089,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0090,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0091,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0092,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0093,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0094,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0095,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0096,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0097,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0098,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0099,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0100,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0101,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0102,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0103,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0104,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0105,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0106,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0107,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0108,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0109,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0110,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0111,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0112,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0113,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0114,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0115,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0116,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0117,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0118,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0119,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0120,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0121,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0122,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0123,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0124,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0125,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0126,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0127,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0128,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0129,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0130,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0131,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0132,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0133,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0134,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0135,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0136,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0137,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0138,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0139,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0140,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0141,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0142,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0143,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0144,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0145,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0146,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0147,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0148,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0149,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0150,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0151,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0152,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0153,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0154,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0155,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0156,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0157,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0158,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0159,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0160,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0161,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0162,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0163,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0164,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0165,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0166,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0167,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0168,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0169,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0170,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0171,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0172,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0173,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0174,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0175,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0176,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0177,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0178,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0179,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0180,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0181,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0182,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0183,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0184,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0185,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0186,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0187,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0188,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0189,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0190,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0191,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0192,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0193,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0194,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0195,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0196,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0197,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0198,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0199,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0200,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0201,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0202,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0203,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0204,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0205,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0206,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0207,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0208,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0209,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0210,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0211,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0212,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0213,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0214,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0215,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0216,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0217,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0218,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0219,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0220,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0221,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0222,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0223,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0224,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0225,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0226,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0227,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0228,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0229,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0230,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0231,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0232,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0233,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0234,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0235,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0236,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0237,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0238,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0239,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0240,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0241,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0242,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0243,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0244,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0245,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0246,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0247,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0248,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0249,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0250,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0251,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0252,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0253,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0254,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0255,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0256,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0257,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0258,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0259,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0260,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0261,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0262,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0263,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0264,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0265,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0266,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0267,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0268,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0269,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0270,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0271,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0272,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0273,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0274,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0275,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0276,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0277,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0278,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0279,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0280,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0281,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0282,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0283,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0284,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0285,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0286,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0287,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0288,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0289,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0290,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0291,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0292,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0293,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0294,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0295,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0296,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0297,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0298,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0299,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0300,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0301,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0302,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0303,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0304,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0305,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0306,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0307,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0308,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0309,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0310,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0311,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0312,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0313,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0314,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0315,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0316,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0317,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0318,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0319,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0320,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0321,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0322,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0323,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0324,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0325,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0326,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0327,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0328,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0329,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0330,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0331,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0332,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0333,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0334,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0335,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0336,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0337,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0338,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0339,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0340,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0341,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0342,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0343,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0344,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0345,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0346,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0347,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0348,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0349,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0350,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0351,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0352,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0353,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0354,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0355,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0356,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0357,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0358,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0359,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0360,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0361,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0362,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0363,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0364,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0365,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0366,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0367,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0368,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0369,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0370,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0371,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0372,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0373,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0374,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0375,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0376,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0377,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0378,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0379,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0380,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0381,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0382,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0383,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0384,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0385,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0386,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0387,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0388,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0389,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0390,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0391,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0392,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0393,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0394,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0395,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0396,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0397,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0398,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0399,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0400,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0401,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0402,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0403,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0404,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0405,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0406,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0407,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0408,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0409,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0410,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0411,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0412,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0413,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0414,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0415,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0416,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0417,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0418,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0419,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0420,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0421,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0422,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0423,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0424,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0425,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0426,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0427,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0428,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0429,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0430,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0431,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0432,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0433,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0434,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0435,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0436,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0437,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0438,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0439,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0440,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0441,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0442,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0443,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0444,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0445,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0446,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0447,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0448,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0449,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0450,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0451,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0452,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0453,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0454,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0455,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0456,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0457,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0458,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0459,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0460,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0461,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0462,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0463,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0464,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0465,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0466,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0467,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0468,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0469,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0470,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0471,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0472,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0473,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0474,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0475,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0476,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0477,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0478,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0479,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0480,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0481,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0482,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0483,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0484,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0485,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0486,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0487,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0488,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0489,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0490,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0491,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0492,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0493,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0494,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0495,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0496,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0497,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0498,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0499,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0500,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0501,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0502,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0503,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0504,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0505,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0506,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0507,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0508,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0509,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0510,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0511,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0512,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0513,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0514,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0515,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0516,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0517,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0518,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0519,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0520,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0521,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0522,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0523,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0524,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0525,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0526,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0527,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0528,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0529,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0530,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0531,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0532,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0533,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0534,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0535,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0536,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0537,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0538,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0539,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0540,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0541,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0542,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0543,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0544,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0545,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0546,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0547,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0548,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0549,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0550,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0551,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0552,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0553,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0554,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0555,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0556,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0557,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0558,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0559,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0560,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0561,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0562,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0563,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0564,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0565,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0566,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0567,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0568,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0569,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0570,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0571,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0572,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0573,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0574,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0575,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0576,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0577,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0578,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0579,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0580,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0581,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0582,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0583,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0584,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0585,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0586,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0587,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0588,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0589,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0590,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0591,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0592,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0593,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0594,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0595,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0596,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0597,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0598,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0599,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0600,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0601,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0602,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0603,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0604,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0605,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0606,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0607,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0608,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0609,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0610,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0611,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0612,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0613,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0614,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0615,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0616,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0617,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0618,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0619,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0620,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0621,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0622,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0623,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0624,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0625,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0626,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0627,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0628,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0629,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0630,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0631,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0632,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0633,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0634,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0635,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0636,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0637,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0638,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0639,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0640,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0641,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0642,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0643,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0644,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0645,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0646,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0647,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0648,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0649,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0650,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0651,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0652,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0653,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0654,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0655,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0656,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0657,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0658,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0659,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0660,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0661,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0662,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0663,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0664,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0665,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0666,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0667,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0668,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0669,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0670,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0671,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0672,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0673,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0674,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0675,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0676,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0677,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0678,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0679,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0680,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0681,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0682,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0683,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0684,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0685,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0686,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0687,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0688,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0689,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0690,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0691,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0692,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0693,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0694,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0695,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0696,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0697,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0698,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0699,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0700,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0701,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0702,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0703,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0704,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0705,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0706,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0707,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0708,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0709,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0710,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0711,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0712,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0713,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0714,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0715,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0716,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0717,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0718,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0719,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0720,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0721,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0722,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0723,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0724,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0725,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0726,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0727,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0728,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0729,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0730,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0731,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0732,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0733,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0734,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0735,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0736,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0737,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0738,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0739,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0740,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0741,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0742,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0743,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0744,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0745,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0746,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0747,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0748,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0749,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0750,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0751,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0752,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0753,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0754,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0755,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0756,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0757,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0758,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0759,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0760,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0761,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0762,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0763,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0764,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0765,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0766,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0767,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0768,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0769,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0770,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0771,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0772,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0773,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0774,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0775,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0776,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0777,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0778,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0779,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0780,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0781,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0782,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0783,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0784,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0785,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0786,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0787,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0788,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0789,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0790,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0791,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0792,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0793,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0794,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0795,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0796,The product broke after a week of use. Very disappointed.,4,product break week use disappointed,Negative
+CUST0797,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0798,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0799,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0800,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0801,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0802,Great value for the price. I will definitely buy again.,2,great value price definitely buy,Positive
+CUST0803,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0804,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0805,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0806,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0807,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0808,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0809,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0810,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0811,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0812,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0813,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0814,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0815,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0816,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0817,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0818,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0819,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0820,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0821,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0822,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0823,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0824,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0825,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0826,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0827,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0828,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0829,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0830,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0831,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0832,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0833,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0834,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0835,Great value for the price. I will definitely buy again.,1,great value price definitely buy,Positive
+CUST0836,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0837,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0838,The product broke after a week of use. Very disappointed.,1,product break week use disappointed,Negative
+CUST0839,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0840,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0841,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0842,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0843,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0844,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0845,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0846,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0847,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0848,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0849,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0850,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0851,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0852,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0853,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0854,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0855,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0856,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0857,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0858,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0859,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0860,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0861,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0862,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0863,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0864,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0865,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0866,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0867,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0868,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0869,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0870,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0871,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0872,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0873,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0874,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0875,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0876,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0877,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0878,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0879,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0880,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0881,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0882,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0883,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0884,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0885,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0886,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0887,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0888,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0889,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0890,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0891,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0892,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0893,The app is user-friendly and makes my tasks so much easier.,4,app user friendly make task easy,Positive
+CUST0894,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0895,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0896,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0897,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0898,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0899,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0900,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0901,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0902,The quality doesn't match the price. Not worth it.,1,quality match price worth,Positive
+CUST0903,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0904,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0905,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0906,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0907,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0908,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0909,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0910,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0911,The app is user-friendly and makes my tasks so much easier.,1,app user friendly make task easy,Positive
+CUST0912,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0913,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0914,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0915,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0916,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0917,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0918,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0919,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0920,Great value for the price. I will definitely buy again.,4,great value price definitely buy,Positive
+CUST0921,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0922,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0923,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0924,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0925,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0926,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0927,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0928,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0929,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0930,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0931,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0932,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0933,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0934,I love the design and functionality. Highly recommended!,2,love design functionality highly recommend,Positive
+CUST0935,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0936,The product quality is excellent and exceeded my expectations.,1,product quality excellent exceed expectation,Positive
+CUST0937,I love the design and functionality. Highly recommended!,1,love design functionality highly recommend,Positive
+CUST0938,Delivery was fast and the item arrived in perfect condition.,1,delivery fast item arrive perfect condition,Positive
+CUST0939,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0940,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0941,The quality doesn't match the price. Not worth it.,4,quality match price worth,Positive
+CUST0942,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0943,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0944,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0945,Delivery was fast and the item arrived in perfect condition.,4,delivery fast item arrive perfect condition,Positive
+CUST0946,Delivery was fast and the item arrived in perfect condition.,2,delivery fast item arrive perfect condition,Positive
+CUST0947,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0948,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0949,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0950,I'm disappointed with the customer service. They were unhelpful.,4,disappointed customer service unhelpful,Negative
+CUST0951,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0952,The app is user-friendly and makes my tasks so much easier.,2,app user friendly make task easy,Positive
+CUST0953,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0954,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0955,"I had trouble using the product, the instructions were unclear.",2,trouble product instruction unclear,Negative
+CUST0956,The product quality is excellent and exceeded my expectations.,5,product quality excellent exceed expectation,Positive
+CUST0957,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0958,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST0959,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0960,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0961,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0962,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0963,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0964,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0965,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0966,"I had trouble using the product, the instructions were unclear.",1,trouble product instruction unclear,Negative
+CUST0967,Customer support was quick to respond and very helpful.,4,customer support quick respond helpful,Positive
+CUST0968,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0969,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
+CUST0970,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0971,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0972,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0973,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0974,Great value for the price. I will definitely buy again.,5,great value price definitely buy,Positive
+CUST0975,I love the design and functionality. Highly recommended!,5,love design functionality highly recommend,Positive
+CUST0976,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0977,I love the design and functionality. Highly recommended!,4,love design functionality highly recommend,Positive
+CUST0978,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0979,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0980,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0981,I'm disappointed with the customer service. They were unhelpful.,1,disappointed customer service unhelpful,Negative
+CUST0982,The quality doesn't match the price. Not worth it.,2,quality match price worth,Positive
+CUST0983,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0984,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0985,The product broke after a week of use. Very disappointed.,2,product break week use disappointed,Negative
+CUST0986,Customer support was quick to respond and very helpful.,5,customer support quick respond helpful,Positive
+CUST0987,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0988,The quality doesn't match the price. Not worth it.,5,quality match price worth,Positive
+CUST0989,The product quality is excellent and exceeded my expectations.,4,product quality excellent exceed expectation,Positive
+CUST0990,"I had trouble using the product, the instructions were unclear.",4,trouble product instruction unclear,Negative
+CUST0991,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0992,I'm disappointed with the customer service. They were unhelpful.,2,disappointed customer service unhelpful,Negative
+CUST0993,Delivery was fast and the item arrived in perfect condition.,5,delivery fast item arrive perfect condition,Positive
+CUST0994,Customer support was quick to respond and very helpful.,1,customer support quick respond helpful,Positive
+CUST0995,I'm disappointed with the customer service. They were unhelpful.,5,disappointed customer service unhelpful,Negative
+CUST0996,The app is user-friendly and makes my tasks so much easier.,5,app user friendly make task easy,Positive
+CUST0997,The product quality is excellent and exceeded my expectations.,2,product quality excellent exceed expectation,Positive
+CUST0998,The product broke after a week of use. Very disappointed.,5,product break week use disappointed,Negative
+CUST0999,Customer support was quick to respond and very helpful.,2,customer support quick respond helpful,Positive
+CUST1000,"I had trouble using the product, the instructions were unclear.",5,trouble product instruction unclear,Negative
