@@ -1,4 +1,8 @@
 import spacy
+import pandas as pd
+
+# Load data
+df = pd.read_csv('customer_feedback.csv')
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -21,3 +25,6 @@ df['Cleaned_Feedback'] = df['Feedback'].apply(preprocess_text)
 # Display the cleaned data
 print("Cleaned data:\n")
 print(df[['Feedback', 'Cleaned_Feedback']].head())
+
+# Save cleaned data
+df.to_csv('cleaned_feedback.csv', index = False)

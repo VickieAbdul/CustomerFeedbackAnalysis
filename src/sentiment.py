@@ -1,5 +1,9 @@
+import pandas as pd
 import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
+
+# Load data
+df = pd.read_csv('cleaned_feedback.csv')
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
